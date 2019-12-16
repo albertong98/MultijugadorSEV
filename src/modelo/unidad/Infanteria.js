@@ -1,0 +1,3 @@
+class Infanteria extends Unidad{
+    
+}
